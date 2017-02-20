@@ -42,9 +42,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# for spring module
 *.class
-*/.classpath
-*/.project
+#*/.classpath
+#*/.project
 /.metadata
 /RemoteSystemsTempFiles
 /*/.settings
@@ -54,3 +55,6 @@ Temporary Items
 /*/build/resources/
 /*/build/dependency-cache/
 
+
+# for debug test
+/*/target/
