@@ -49,4 +49,8 @@ Temporary Items
 /RemoteSystemsTempFiles
 /*/.settings
 /*/bin
+/*/build/tmp
+/*/build/classes
+/*/build/resources
+/*/build/dependency-cache
 
