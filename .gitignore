@@ -43,7 +43,10 @@ Temporary Items
 .apdisk
 
 *.class
+*/.classpath
+*/.project
 /.metadata
 /RemoteSystemsTempFiles
 /*/.settings
 /*/bin
+
